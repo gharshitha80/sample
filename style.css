@@ -1,0 +1,13 @@
+body{
+ background-color: pink;
+}
+h1 {
+  text-align: center;
+  color: blue;
+  margin-left:20px;
+}
+p  {
+  font-family: italic;
+  font-size: 105%;
+}
+
