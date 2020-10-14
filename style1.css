@@ -25,7 +25,7 @@ body{
 .cover{
    border:1px soild black;
    text-align:center;
-   width:375px;
+   width:370px;
    height:450px;
    position: absolute;
    left:10%;
@@ -41,7 +41,7 @@ body{
 img{
      border-radius:20px;
      position:absolute;
-     left:15%;
+     left:20%;
      top:10%;
      margin:-10px  -9px;
      opacity:0.7px;
