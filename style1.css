@@ -58,10 +58,11 @@ h1{
    font-weight:normal;
  } 
 .audio{
-     position:absolute;
+    position:absolute;
      top:63%;
      left:15%;
-     width:200px;
+     width:150px;
+   border-radius:
 }
    
 
