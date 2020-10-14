@@ -54,7 +54,8 @@ img{
 }
 h1{
     color:white;
-    line-height:7px;
+   font-family:italic;
+   line-height: 7px;
    font-weight:normal;
  } 
 .audio{
