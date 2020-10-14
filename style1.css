@@ -57,50 +57,15 @@ h1{
     line-height:7px;
    font-weight:normal;
  } 
-.line{
-    border-bottom:2px solid white;
-    position:absolute;
-    top:65%;
-    left:15%;
-    width:220px;
-    box-shadow:1px 0px 4px;
-    color:hotpink;      
-}
-.fa-circle{
-   color:hotpink;
-   position:absolute;
-   left:45%;
-   margin-top:-7px;
-}
-.number{
-}
-h3{
+.audio{
      position:absolute;
+     margin:center;
      left:15%;
-     top:63%;
-     font-size:14px;
-     color:white;
-     font-family:kulim park,sans-serif;
-     font-weight:normal;
+     width:220px;
 }
-h4{
-  position:absolute;
-  left:81%;
-  top:62%;
-  font-size:14px;
-  color:white;
-  font-family:kulim park,sans-serif;
-  font-weight:normal;  
-}
-.player{
-    border-bottom: 1px solid white;
-    font-size:60px;
-}
-.fa-pause-circle{
-     color:hotpink;
-     position:absolute;
-     left:43%;
-     top:72%;
-}
+   
 
-  
+
+
+
+
